@@ -1,0 +1,3 @@
+# Intstruction
+
+Check `basic.ipynb` for quick start. 
