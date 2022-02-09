@@ -9,7 +9,6 @@ def line2prompt(line):
     before, after = after.split('", "completion":')
     return before
 
-EP = 10
 train_file = 'compas_train.jsonl'
 test_file = 'compas_test.jsonl'
 
