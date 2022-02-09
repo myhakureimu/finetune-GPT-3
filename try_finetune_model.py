@@ -2,7 +2,7 @@ import os
 import openai
 import time
 # you need to change this key to your key
-openai.api_key = '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'
+openai.api_key = 
 
 def line2prompt(line):
     before, after = line.split('{"prompt": "')
