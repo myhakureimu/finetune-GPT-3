@@ -1,7 +1,7 @@
 import os
 import openai
 import time
-# you need to change this key to your key
+# you need to add your key here
 openai.api_key = 
 
 def line2prompt(line):
