@@ -1,3 +1,5 @@
 # Intstruction
 
 Check `basic.ipynb` for quick start. 
+
+The try_finetune_model.py is a pure python code for you to upload dataset and finetune a model.
